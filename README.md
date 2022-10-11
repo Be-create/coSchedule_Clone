@@ -97,11 +97,11 @@ npm i --legacy-peer-deps
 -  [Zoom](https://zoom.us/) for show work.
 
 ## My Roles and Responsibilities :
-- Managing the GitHub repo and merging the files.
-- I have created the backend of this website.
-- Deployment of backend and frontend.
-- Making login and signup page.
-- I have build the calender page and updating the data with api and maintaining them.
+- Creating the Homepage .
+- Adding dynamic weekly calender to the homepage
+- Connecting server to redux to get data from database and distibute according to date.
+- Creating functionality to color code tasks and projects.
+- Create functionality to add, update and delete projects
 
 ## Learning Outcome :
 - This is my first backend project so I learnt a lot, like how to create a server and all server realated CRUD operations.
